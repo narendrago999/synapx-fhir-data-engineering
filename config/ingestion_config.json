@@ -1,0 +1,11 @@
+{
+  "max_retries": 3,
+  "request_timeout_seconds": 60,
+  "retry_backoff_seconds": [
+    2,
+    5,
+    10
+  ],
+  "watermark_commit_policy": "after_resource_batch_validation",
+  "preserve_raw_response": true
+}

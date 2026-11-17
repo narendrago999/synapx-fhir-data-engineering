@@ -1,6 +1,0 @@
-{
-  "environment": "development",
-  "lakehouse_name": "lh_fhir",
-  "raw_root": "Files/raw/fhir",
-  "timezone": "UTC"
-}
